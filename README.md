@@ -20,7 +20,7 @@ This README outlines the details of collaborating on this Ember addon.
   buttonId='#request-submit'
 }}
 ```
-* `elementCssIdentifiersArrayJson` will be the list of json of list of css selectors for your form elements.
+* `elementCssIdentifiersArrayJson` will be the json of list of `css-selectors` for your form elements.
 * `errorClass` is for applying some error css defined in your project.
 * `buttonId` will be the id for submit button present for your form.
 
