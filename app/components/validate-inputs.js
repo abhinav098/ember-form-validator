@@ -1,4 +1,4 @@
-import validateInputs from './../../addon/components/validate-form.js';
+import validateInputs from './../../addon/components/validate-inputs';
 
 export default validateInputs;
 
