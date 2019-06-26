@@ -37,6 +37,6 @@ For more information on using ember-cli, visit [https://ember-cli.com/](https://
 
 # Contact
 
-For any issues contact the author @  `abhinav.garg1218@gmail.com`
+For any issues contact the author at  `abhinav.garg1218@gmail.com`
 
 Thanks
