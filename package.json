@@ -1,6 +1,6 @@
 {
   "name": "ember-form-validator",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Provides a form validator to validate empty inputs, select and checkboxes.",
   "keywords": [
     "ember-addon", "ember-form-validator", "form-validator", "input-validator", "select-validator"
